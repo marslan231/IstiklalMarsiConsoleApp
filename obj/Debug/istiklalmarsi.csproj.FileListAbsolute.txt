@@ -1,0 +1,7 @@
+C:\Projects\CSharpCourse\istiklalmarsi\bin\Debug\istiklalmarsi.exe.config
+C:\Projects\CSharpCourse\istiklalmarsi\bin\Debug\istiklalmarsi.exe
+C:\Projects\CSharpCourse\istiklalmarsi\bin\Debug\istiklalmarsi.pdb
+C:\Projects\CSharpCourse\istiklalmarsi\obj\Debug\istiklalmarsi.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\istiklalmarsi\obj\Debug\istiklalmarsi.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\istiklalmarsi\obj\Debug\istiklalmarsi.exe
+C:\Projects\CSharpCourse\istiklalmarsi\obj\Debug\istiklalmarsi.pdb
